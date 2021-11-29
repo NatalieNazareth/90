@@ -1,0 +1,20 @@
+.body_bg{
+    background-image: url("https://i.pinimg.com/736x/dc/2c/48/dc2c482294100808cced408abb9cdf7d.jpg");
+    text-align: center;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
